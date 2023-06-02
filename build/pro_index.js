@@ -1,0 +1,1 @@
+!function(){"use strict";var e=window.wp.element;"?page=wcs_documentation"===window.location.search&&(0,e.render)((0,e.createElement)((()=>{if("?page=wcs_documentation"===window.location.search)return(0,e.createElement)("div",{id:"wcs_documentation"},"Documentation page showing from pro plugin")}),null),document.getElementById("wcs_documentation"))}();
